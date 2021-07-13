@@ -7,7 +7,7 @@ Programming Language :: Python :: 3
 """
 
 setup(name='ctcsound',
-      version='6.15.0',
+      version='6.16.0',
       url='https://github.com/fggp/ctcsound',
       description='Python bindings to the Csound API using ctypes', 
       classifiers=filter(None, classifiers.split('\n')),
